@@ -1,0 +1,3 @@
+post-build=Android/cm_p970/p970:4.1.2/JZO54K/eng..20121113.014944:userdebug/test-keys
+post-timestamp=1352800214
+pre-device=p970
